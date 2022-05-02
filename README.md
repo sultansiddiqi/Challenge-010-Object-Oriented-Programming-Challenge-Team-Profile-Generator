@@ -30,7 +30,7 @@ Contributions are excepted. Fill free to fork.
 
 ![screenshot](./assets/npmRunTest.png)
 
-# Questions
+# Information
 ## GitHub User name 
 sultansiddiqi
 ### Link to GitHub:
@@ -42,7 +42,7 @@ https://github.com/sultansiddiqi/Challenge-010-Object-Oriented-Programming-Chall
 ### Email address 
 sultan.siddiqi@gmail.com
 # Demo
-PLACEHOLDER
+Demonstration video URL: https://youtu.be/LF7cuCwgrWA
 ## Using application from the command line and generating an HTML
 ![Demo of README](./assets/nodeindexjs.gif)
 
