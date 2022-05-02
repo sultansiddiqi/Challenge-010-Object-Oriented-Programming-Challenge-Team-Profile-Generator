@@ -34,8 +34,11 @@ Contributions are excepted. Fill free to fork.
 ## GitHub User name 
 sultansiddiqi
 ### Link to GitHub:
-### To access the website
 https://github.com/sultansiddiqi/Challenge-010-Object-Oriented-Programming-Challenge-Team-Profile-Generator
+
+## Link to Generated HTML Page (repository link)
+https://github.com/sultansiddiqi/Challenge-010-Object-Oriented-Programming-Challenge-Team-Profile-Generator/blob/main/team.html
+![Demo of README](./assets/HTML-webpage-screenshot.png)
 ### Email address 
 sultan.siddiqi@gmail.com
 # Demo
@@ -43,6 +46,10 @@ PLACEHOLDER
 ## Using application from the command line and generating an HTML
 ![Demo of README](./assets/nodeindexjs.gif)
 
+## Demo of Output HTML File and function
+![Demo of README](./assets/HTMLDemo.gif)
+
 ## Demo of all 4 tests passing 
 ![Demo of README](./assets/jestFilename.gif)
+
 
