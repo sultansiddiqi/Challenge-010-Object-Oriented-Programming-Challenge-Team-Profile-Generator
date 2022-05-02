@@ -35,10 +35,11 @@ Contributions are excepted. Fill free to fork.
 sultansiddiqi
 ### Link to GitHub:
 ### To access the website
-PLACEHOLDER
+https://github.com/sultansiddiqi/Challenge-010-Object-Oriented-Programming-Challenge-Team-Profile-Generator
 ### Email address 
 sultan.siddiqi@gmail.com
 # Demo
+PLACEHOLDER
 ## Using application from the command line and generating an HTML
 ![Demo of README](./assets/nodeindexjs.gif)
 
