@@ -51,5 +51,7 @@ Demonstration video URL: https://youtu.be/LF7cuCwgrWA
 
 ## Demo of all 4 tests passing 
 ![Demo of README](./assets/jestFilename.gif)
+![Demo of README](./assets/npmRunTest.gif)
+
 
 
