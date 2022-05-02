@@ -2,7 +2,9 @@
 # 10-Object-Oriented-Programming-Team-Profile-Generator
 
 # Description 
-This Node CLI builds a team displaying HTML file for a user based on their input.  The user inputs what their role will be, employee ID, email address, gitHub username (engineer) and school (intern).  After the user is done inputting their team, the program generates a static page organizing their information. 
+
+This Node application is designed to build a Team Builder HTML file. It contains information on Team Members such as: Manager, Engineer, and Intern. Relevant information for all categories is taken in and displayed.
+
 # Table of Contents
 
 1. [Description](#Description)
@@ -24,7 +26,7 @@ When generator starts answer question prompts to customize HTML-TEAM
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 ## This application is covered by the MIT license. 
 # Contributing
-Contributions are excepted. Fill free to fork. 
+Sultan Siddiqi
 # Tests
 - Jest Tests
 
